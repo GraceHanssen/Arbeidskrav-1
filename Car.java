@@ -1,4 +1,4 @@
-class Car {
+public class Car {
     enum CarType {PERSONAL, VAN, TRUCK}
 
     String producer, name, mileageDate;
