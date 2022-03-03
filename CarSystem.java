@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 import java.util.Calendar;
 
-class CarSystem {
+public class CarSystem {
 
     Scanner scanner = new Scanner(System.in);
 
